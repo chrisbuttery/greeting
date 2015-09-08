@@ -39,8 +39,8 @@ $ greeting --help
     Howdy
 
     $ greeting --all
-    G'day
     Hello
+    Hi
     ...
 
   Options
