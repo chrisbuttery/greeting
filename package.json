@@ -1,6 +1,6 @@
 {
   "name": "greeting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello in many languages",
   "main": "index.js",
   "files": [
