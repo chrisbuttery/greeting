@@ -4,7 +4,7 @@
   "description": "Different ways to say hello.",
   "main": "index.js",
   "bin": {
-    "parting": "cli.js"
+    "greeting": "cli.js"
   },
   "files": [
     "index.js",
