@@ -1,13 +1,15 @@
 {
   "name": "greeting",
-  "version": "1.0.5",
-  "description": "Common ways to say hello.",
+  "version": "1.0.6",
+  "description": "Different ways to say hello.",
   "main": "index.js",
+  "bin": {
+    "parting": "cli.js"
+  },
   "files": [
-    "LICENSE",
     "index.js",
-    "README.md",
-    "cli.js"
+    "cli.js",
+    "greetings.json"
   ],
   "directories": {
     "test": "test"
