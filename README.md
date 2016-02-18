@@ -47,7 +47,7 @@ $ greeting --help
     --all   Get all greetings instead of a random greeting
 ```
 
-See also: [Parting]("https://github.com/chrisbuttery/parting" "Parting: Different ways to say good-bye.")
+See also: [Parting](https://github.com/chrisbuttery/parting "Parting: Different ways to say good-bye.")
 
 Inspired by [sindresorhus](https://github.com/sindresorhus/dog-names)
 
