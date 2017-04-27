@@ -19,7 +19,7 @@
     "unique-random-array": "^1.0.0"
   },
   "devDependencies": {
-    "coveralls": "^2.11.4",
+    "coveralls": "^2.13.1",
     "faucet": "0.0.1",
     "istanbul": "^0.4.3",
     "standard": "^7.1.0",
